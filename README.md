@@ -3,7 +3,7 @@
 This is an improved version of my final project for a Programming || course. It serves as a simple database for managing game information. 
 It includes features such as adding, displaying, searching, updating, and deleting games. 
 
-### Languages & technologies used
+### Languages & technologies used:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 ### Features:
