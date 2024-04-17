@@ -26,3 +26,7 @@ Change filename: Lets you change the name of the database file.
 Delete file: Deletes the entire database file.
 
 Exit the program: Exits the program.
+
+<br />
+
+![c-program](https://github.com/a9na/game-database/assets/105394294/0b367452-2578-4b3f-95a1-c1c350c7d939)
