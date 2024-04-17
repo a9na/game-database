@@ -29,4 +29,5 @@ Exit the program: Exits the program.
 
 <br />
 
-![c-program](https://github.com/a9na/game-database/assets/105394294/0b367452-2578-4b3f-95a1-c1c350c7d939)
+<img src="https://github.com/a9na/game-database/assets/105394294/0b367452-2578-4b3f-95a1-c1c350c7d939" width="750"/>
+
